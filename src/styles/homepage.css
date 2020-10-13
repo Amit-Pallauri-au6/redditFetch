@@ -31,7 +31,6 @@
 }
 
 .image-container{
-    /* border: rgba(40,56,48,0.6197829473586309) 1px solid; */
     height : 80vh;
     width: 100%;
     text-align: center;
@@ -44,8 +43,6 @@
 }
 
 .image-crop img{
-    /* border: 1px black solid; */
-    /* width: 60%; */
     height: 60vh;
     object-fit: contain;
     min-height: 70vh;
@@ -53,7 +50,6 @@
 
 .image-details-conatiner{
     width: 40%;
-    /* border: 1px solid red; */
 }
 
 .image-details{
@@ -61,6 +57,5 @@
     top: 30%;
     left: 25%;
     width : 50%;
-    /* border : 1px solid rgba(95, 87, 87, 0.336); */
     padding: 20px;
 }
